@@ -24,7 +24,7 @@ const About = () => {
               me.
             </p>
             <a
-              href="CV_Zouhair Begdar-front-end.pdf"
+              href="zouhair-begdar.pdf"
               download="Zouhair Begdar.pdf"
               className="btn"
             >
