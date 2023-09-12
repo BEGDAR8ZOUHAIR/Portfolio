@@ -29,7 +29,7 @@
   box-shadow: var(--shadow);
 }
 .project__image {
-  width: 100%;
+  width: 50%;
   height: 50%;
 }
 
