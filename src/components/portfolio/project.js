@@ -17,7 +17,7 @@ const Project = [
   },
   {
     id: 2,
-    image: Project1,
+    image: Project2,
     title: "Cattle Zoo",
     category: "Mobile App",
     description: " React Native App Cattle Zoo is an app that enables users to manage their cattle.",
@@ -25,7 +25,7 @@ const Project = [
   },
   {
     id: 3,
-    image: Project1,
+    image: Project3,
     title: "Job Portal",
     category: "Web App",
     description: "Job Portal is a MERN Stack based web app which helps in streamlining the flow of job application process. It allows users to select there roles (applicant/recruiter), and create an account.",
