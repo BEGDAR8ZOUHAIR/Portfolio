@@ -73,7 +73,7 @@
 
 .project__description {
   color: #fff;
-  font-size: var(--h3-font-size);
+  /* font-size: var(--h3-font-size); */
   margin: 0 0 0.98rem;
   padding: 0 1.25rem;
   position: absolute;

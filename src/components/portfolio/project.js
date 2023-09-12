@@ -1,52 +1,38 @@
-import Project1 from "../../assets/Pooch-Parks.png";
+import Project1 from "../../assets/mfn.jpg";
+import Project2 from "../../assets/cattlezoo.jpg";
+import Project3 from "../../assets/jobportal.png";
+
 
 
 const Project = [
   {
     id: 1,
     image: Project1,
-    title: "Pooch Parks",
+    title: "MFN APPLICATION",
     category: "Mobile App",
+    //
     description:
-      "React Native-based mobile app for iOS that helps 🐕 owners search for 🐕 parks, save their preferred ones, obtain directions from their current location to the selected 🐕 park, and access information on the distance between two locations, as well as an estimated travel time.",
-    link: "",
+      " React Native App  MFN is an app that enables users to easily locate nearby transportation companies in Morocco and various other countries.",
+    link: "https://github.com/BEGDAR8ZOUHAIR/MFN-APP",
   },
   {
-    id: 1,
+    id: 2,
     image: Project1,
-    title: "Pooch Parks",
+    title: "Cattle Zoo",
     category: "Mobile App",
-    description:
-      "React Native-based mobile app for iOS that helps 🐕 owners search for 🐕 parks, save their preferred ones, obtain directions from their current location to the selected 🐕 park, and access information on the distance between two locations, as well as an estimated travel time.",
-    link: "",
+    description: " React Native App Cattle Zoo is an app that enables users to manage their cattle.",
+    link: "https://github.com/BEGDAR8ZOUHAIR/LivestockManagement",
   },
   {
-    id: 1,
+    id: 3,
     image: Project1,
-    title: "Pooch Parks",
-    category: "Mobile App",
-    description:
-      "React Native-based mobile app for iOS that helps 🐕 owners search for 🐕 parks, save their preferred ones, obtain directions from their current location to the selected 🐕 park, and access information on the distance between two locations, as well as an estimated travel time.",
-    link: "",
-  },
-  {
-    id: 1,
-    image: Project1,
-    title: "Pooch Parks",
-    category: "Mobile App",
-    description:
-      "React Native-based mobile app for iOS that helps 🐕 owners search for 🐕 parks, save their preferred ones, obtain directions from their current location to the selected 🐕 park, and access information on the distance between two locations, as well as an estimated travel time.",
-    link: "",
-  },
-  {
-    id: 1,
-    image: Project1,
-    title: "Pooch Parks",
-    category: "Mobile App",
-    description:
-      "React Native-based mobile app for iOS that helps 🐕 owners search for 🐕 parks, save their preferred ones, obtain directions from their current location to the selected 🐕 park, and access information on the distance between two locations, as well as an estimated travel time.",
-    link: "",
-  },
+    title: "Job Portal",
+    category: "Web App",
+    description: "Job Portal is a MERN Stack based web app which helps in streamlining the flow of job application process. It allows users to select there roles (applicant/recruiter), and create an account.",
+    link: "https://github.com/BEGDAR8ZOUHAIR/job-portal",
+  }
+
+
 
  
 ];
