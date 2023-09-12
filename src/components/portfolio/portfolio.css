@@ -28,10 +28,6 @@
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
 }
-.project__image {
-  width: 50%;
-  height: 50%;
-}
 
 .project__mask {
   background: #6c6ce5;
