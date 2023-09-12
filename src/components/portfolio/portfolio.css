@@ -28,6 +28,11 @@
   border-radius: var(--border-radius);
   box-shadow: var(--shadow);
 }
+.project__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 
 .project__mask {
   background: #6c6ce5;
