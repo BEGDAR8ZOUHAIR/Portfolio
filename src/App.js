@@ -6,6 +6,7 @@ import Services from "./components/services/Services";
 import Resume from "./components/resume/Resume";
 import Portfolio from "./components/portfolio/Portfolio";
 import Contact from "./components/contact/Contact";
+import Github from "./components/Github";
 import 'font-awesome/css/font-awesome.min.css';
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
         <About />
         <Services />
         <Resume />
+        <Github />
         <Portfolio />
         <Contact />
       </main>
