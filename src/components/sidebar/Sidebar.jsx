@@ -41,11 +41,11 @@ const Sidebar = () => {
                 </a>
               </li>
 
-              {/* <li className="nav__item">
-                <a href="#testimonials" className="nav__link">
-                  <i className="icon-speech"></i>
+              <li className="nav__item">
+                <a href="#github" className="nav__link">
+                  <i className="icon-github"></i>
                 </a>
-              </li> */}
+              </li>
 
               <li className="nav__item">
                 <a href="#contact" className="nav__link">
